@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paskal Desmet</h1>
+<h1 align="center">Hi 👋, I'm Nenad Rašić</h1>
 <h3 align="center">Frontend Developer | Backend Developer | Blockchain</h3>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/brownrabbit0207/brownrabbit0207/blob/main/devcard.svg" width="400" alt="brownrabbit's Dev Card"/></a>
 <div>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Brown</h1>
-<h3 align="center">Frontend Developer | Backend Developer | Blockchain</h3>
+<h3 align="center">Frontend Developer | Backend Developer | Blockchain Developer</h3>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/brownrabbit0207/brownrabbit0207/blob/main/devcard.svg" width="400" alt="brownrabbit's Dev Card"/></a>
 <div>
   <h2>As a Software Developer, I have a lot of experiences in Web application Development and Blockchain Development.</h2>
